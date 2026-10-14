@@ -8,3 +8,13 @@
     "default_icon": "hello_extensions.png"
   }
 }
+
+
+
+Hello.html
+
+<html>
+ <body>
+ <h1>Hello Extensions</h1>
+ </body>
+</html>
